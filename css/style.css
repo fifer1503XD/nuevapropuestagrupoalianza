@@ -230,11 +230,11 @@ a:focus {
     
     .navbar.nav-sticky {
         padding: 10px 60px;
-        background: #299c6b !important;
+        background: #1f79b9 !important;
     }
     
     .page .navbar {
-        background: #092a49 !important;
+        background: #1f79b9 !important;
     }
     
     .navbar a.nav-link {
@@ -248,7 +248,7 @@ a:focus {
 @media (max-width: 991.98px) {   
     .navbar {
         padding: 15px;
-        background: #092a49 !important;
+        background: #1f79b9 !important;
     }
     
     .navbar a.nav-link {
@@ -269,7 +269,7 @@ a:focus {
     width: 100%;
     height: calc(100vh - 35px);
     min-height: 400px;
-    background: #092a49;
+    background: #1f79b9;
     margin-bottom: 45px;
 }
 
@@ -379,7 +379,7 @@ a:focus {
     align-items: center;
     justify-content: center;
     color: #0796fe;
-    background: #092a49;
+    background: #1f79b9;
     font-size: 22px;
     transition: .3s;
 }
